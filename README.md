@@ -32,13 +32,16 @@ Expense Tracker has 3 main components .
 2. Expense Chart by month
 3. Expenses List
 
-1.Add Expense
+<b?1.Add Expense - </b>
+
 Initially there is an Add Expense button which enables you to add an expense to the expense list. A form lets the user input the required fields and add values accordingly.
 
-2.Expense Chart
+<b>2.Expense Chart -</b>
+
 Expense chart allows the user to view the expenses in a month filtered by each year and according to the bar-meter.
 
-3.Expenses List
+<b>3.Expenses List -</b>
+
 Expenses are fetched according to the year selected and displayed in the Expense List component.
 
 
