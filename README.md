@@ -27,8 +27,20 @@ You can add your expense and can view the expneses displayed in a chart accordin
 I used HTML5,CSS3,Javascript and ReactJS to achieve the full functionality of the project.
 
 ## Approach
-This project focuses on implementation of react hook useState and dynamically assigning styles based on the current state of the components.
-## Setup
+Expense Tracker has 3 main components . 
+1. Add Expense
+2. Expense Chart by month
+3. Expenses List
+
+1.Add Expense
+Initially there is an Add Expense button which enables you to add an expense to the expense list. A form lets the user input the required fields and add values accordingly.
+
+2.Expense Chart
+Expense chart allows the user to view the expenses in a month filtered by each year and according to the bar-meter.
+
+3.Expenses List
+Expenses are fetched according to the year selected and displayed in the Expense List component.
+
 
 ## Getting Started with Create React App
 
