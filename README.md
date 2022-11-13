@@ -16,7 +16,7 @@ Preview link -  https://my-expense-track.netlify.app/
 
 ## About The App
 Expense Tracker is an easy way to track your expenses for a month.
-You can add your expense and can view the expneses displayed in a chart according to the months and filter.
+You can add your expense and can view the expneses displayed in a chart according to the months and filtered year
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/61748949/201513292-37c8d18a-37f1-4ae5-b253-4531b9b70c64.png)
